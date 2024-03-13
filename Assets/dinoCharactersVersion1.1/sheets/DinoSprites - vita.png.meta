@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: c5c0f9200a0259a44a8acd9a345595c5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DinoSprites - vita_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -7}
+        - {x: 6, y: -2}
+        - {x: 9, y: -1}
+        - {x: 9, y: 7}
+        - {x: 6, y: 10}
+        - {x: -6, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: 3}
+        - {x: -8, y: -1}
+        - {x: -8, y: -5}
+        - {x: -6, y: -7}
+        - {x: -6, y: -9}
+        - {x: -4, y: -11}
+        - {x: -2, y: -11}
+        - {x: -1, y: -10}
+        - {x: 0, y: -11}
+        - {x: 2, y: -11}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: c14d7b90fd6183346abb4bb3626154cc
+      internalID: 785600219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 10}
+        - {x: -3, y: 10}
+        - {x: -4, y: 9}
+        - {x: -6, y: 9}
+        - {x: -10, y: 5}
+        - {x: -10, y: 2}
+        - {x: -8, y: -2}
+        - {x: -8, y: -6}
+        - {x: -4, y: -11}
+        - {x: 3, y: -11}
+        - {x: 6, y: -8}
+        - {x: 6, y: -2}
+        - {x: 9, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: b5f5b2c38a9e01c46a721719ea2a8aa1
+      internalID: 542463655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 6}
+        - {x: 6, y: 9}
+        - {x: -6, y: 9}
+        - {x: -10, y: 5}
+        - {x: -10, y: 2}
+        - {x: -8, y: -2}
+        - {x: -8, y: -6}
+        - {x: -4, y: -11}
+        - {x: 3, y: -11}
+        - {x: 6, y: -8}
+        - {x: 6, y: -3}
+        - {x: 9, y: -2}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 9c3717d7dfdcf1040800fe668bbb8347
+      internalID: -819910736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -7}
+        - {x: 6, y: -3}
+        - {x: 9, y: -2}
+        - {x: 9, y: 6}
+        - {x: 6, y: 9}
+        - {x: -6, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: 3}
+        - {x: -8, y: -1}
+        - {x: -8, y: -5}
+        - {x: -6, y: -7}
+        - {x: -6, y: -9}
+        - {x: -4, y: -11}
+        - {x: -2, y: -11}
+        - {x: -1, y: -10}
+        - {x: 0, y: -11}
+        - {x: 2, y: -11}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 724da721f32e623498c7980fbd2fcadf
+      internalID: -1563235966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 10}
+        - {x: -6, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: 3}
+        - {x: -8, y: -1}
+        - {x: -8, y: -5}
+        - {x: -5, y: -8}
+        - {x: -4, y: -8}
+        - {x: -2, y: -10}
+        - {x: 2, y: -10}
+        - {x: 6, y: -6}
+        - {x: 6, y: -2}
+        - {x: 9, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: a43b7275e15c2704f818cdd9217f60ed
+      internalID: 1308990421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 6}
+        - {x: 6, y: 9}
+        - {x: -6, y: 9}
+        - {x: -10, y: 5}
+        - {x: -10, y: 2}
+        - {x: -9, y: 1}
+        - {x: -9, y: -1}
+        - {x: -7, y: -3}
+        - {x: -8, y: -4}
+        - {x: -8, y: -7}
+        - {x: -6, y: -9}
+        - {x: -5, y: -9}
+        - {x: -3, y: -11}
+        - {x: 1, y: -11}
+        - {x: 6, y: -7}
+        - {x: 6, y: -3}
+        - {x: 9, y: -2}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: c94ca5352f4590d43b954bd658a5a4dc
+      internalID: -1140668748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -3}
+        - {x: 9, y: 0}
+        - {x: 9, y: 7}
+        - {x: 6, y: 10}
+        - {x: -6, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: 3}
+        - {x: -8, y: -1}
+        - {x: -8, y: -5}
+        - {x: -6, y: -7}
+        - {x: -6, y: -9}
+        - {x: -4, y: -11}
+        - {x: -2, y: -11}
+        - {x: 0, y: -9}
+        - {x: 4, y: -9}
+        - {x: 7, y: -6}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5f47db41e0296e242a3c4c17aa28084a
+      internalID: -1144746569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -2}
+        - {x: 9, y: 0}
+        - {x: 9, y: 7}
+        - {x: 6, y: 10}
+        - {x: -6, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: 3}
+        - {x: -8, y: -1}
+        - {x: -8, y: -5}
+        - {x: -6, y: -10}
+        - {x: 5, y: -10}
+        - {x: 7, y: -8}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8351b58747a80ba4ba02fb45eb460d72
+      internalID: -1322689003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -1}
+        - {x: 9, y: 6}
+        - {x: 6, y: 9}
+        - {x: -6, y: 9}
+        - {x: -10, y: 5}
+        - {x: -9, y: -1}
+        - {x: -8, y: -4}
+        - {x: -8, y: -7}
+        - {x: -7, y: -9}
+        - {x: -4, y: -10}
+        - {x: 0, y: -10}
+        - {x: 1, y: -11}
+        - {x: 4, y: -11}
+        - {x: 7, y: -8}
+        - {x: 7, y: -5}
+        - {x: 6, y: -3}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: df18f5ca1b504c0459ea25380766c84c
+      internalID: 111489865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 10}
+        - {x: -6, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: 3}
+        - {x: -8, y: -1}
+        - {x: -8, y: -5}
+        - {x: -5, y: -8}
+        - {x: -4, y: -8}
+        - {x: -1, y: -11}
+        - {x: 1, y: -11}
+        - {x: 6, y: -6}
+        - {x: 6, y: -2}
+        - {x: 9, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3edcb106ecb7ce848bc5c5e4c420bac6
+      internalID: 1816956773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -7}
+        - {x: 6, y: -2}
+        - {x: 9, y: -1}
+        - {x: 9, y: 7}
+        - {x: 6, y: 10}
+        - {x: -6, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: 3}
+        - {x: -8, y: -1}
+        - {x: -8, y: -5}
+        - {x: -6, y: -7}
+        - {x: -6, y: -9}
+        - {x: -4, y: -11}
+        - {x: -2, y: -11}
+        - {x: -1, y: -10}
+        - {x: 0, y: -11}
+        - {x: 2, y: -11}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8aee82c93a8ef304cb9656c0cee7498c
+      internalID: -775405413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -3}
+        - {x: 5, y: -2}
+        - {x: 7, y: 0}
+        - {x: 7, y: 7}
+        - {x: 4, y: 10}
+        - {x: -5, y: 10}
+        - {x: -8, y: 9}
+        - {x: -12, y: 5}
+        - {x: -11, y: -1}
+        - {x: -9, y: -3}
+        - {x: -9, y: -6}
+        - {x: -5, y: -11}
+        - {x: -3, y: -11}
+        - {x: -1, y: -9}
+        - {x: 3, y: -9}
+        - {x: 6, y: -6}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 4cfb54d89ca37774eac5d0d9ca7aad05
+      internalID: -387387161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -3}
+        - {x: 6, y: -1}
+        - {x: 9, y: 1}
+        - {x: 9, y: 8}
+        - {x: 6, y: 11}
+        - {x: -3, y: 11}
+        - {x: -6, y: 10}
+        - {x: -10, y: 6}
+        - {x: -9, y: 0}
+        - {x: -7, y: -2}
+        - {x: -8, y: -3}
+        - {x: -8, y: -6}
+        - {x: -4, y: -11}
+        - {x: -2, y: -11}
+        - {x: 0, y: -9}
+        - {x: 4, y: -9}
+        - {x: 7, y: -6}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 9421600a5008f2144ae6a0170da46cc5
+      internalID: 1331620116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -7}
+        - {x: 6, y: -2}
+        - {x: 9, y: -1}
+        - {x: 9, y: 7}
+        - {x: 6, y: 10}
+        - {x: -6, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: 3}
+        - {x: -8, y: -1}
+        - {x: -8, y: -5}
+        - {x: -6, y: -7}
+        - {x: -6, y: -9}
+        - {x: -4, y: -11}
+        - {x: -2, y: -11}
+        - {x: -1, y: -10}
+        - {x: 0, y: -11}
+        - {x: 2, y: -11}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: b7be3c95b02fd4344882f4ca659c0b56
+      internalID: -250799242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -3}
+        - {x: 6, y: -1}
+        - {x: 9, y: 1}
+        - {x: 9, y: 8}
+        - {x: 6, y: 11}
+        - {x: -3, y: 11}
+        - {x: -6, y: 10}
+        - {x: -10, y: 6}
+        - {x: -9, y: 0}
+        - {x: -7, y: -2}
+        - {x: -8, y: -3}
+        - {x: -8, y: -6}
+        - {x: -4, y: -11}
+        - {x: -2, y: -11}
+        - {x: 0, y: -9}
+        - {x: 4, y: -9}
+        - {x: 7, y: -6}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6149158dad92e564f8d177e5451c389d
+      internalID: -1563451157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -3}
+        - {x: 5, y: -2}
+        - {x: 7, y: 0}
+        - {x: 7, y: 7}
+        - {x: 4, y: 10}
+        - {x: -5, y: 10}
+        - {x: -8, y: 9}
+        - {x: -12, y: 5}
+        - {x: -11, y: -1}
+        - {x: -9, y: -3}
+        - {x: -9, y: -6}
+        - {x: -5, y: -11}
+        - {x: -3, y: -11}
+        - {x: -1, y: -9}
+        - {x: 3, y: -9}
+        - {x: 6, y: -6}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3a3fe29d5dfc7bb4182bb51575d4e6a7
+      internalID: -790324296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -3}
+        - {x: 5, y: -2}
+        - {x: 7, y: 0}
+        - {x: 7, y: 7}
+        - {x: 4, y: 10}
+        - {x: -5, y: 10}
+        - {x: -8, y: 9}
+        - {x: -12, y: 5}
+        - {x: -11, y: -1}
+        - {x: -9, y: -3}
+        - {x: -9, y: -6}
+        - {x: -5, y: -11}
+        - {x: -3, y: -11}
+        - {x: -1, y: -9}
+        - {x: 3, y: -9}
+        - {x: 6, y: -6}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 4021c12949e8fd544b26cb4e99bf8e4a
+      internalID: -1154151907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -6}
+        - {x: 7, y: -5}
+        - {x: 11, y: -5}
+        - {x: 12, y: -4}
+        - {x: 12, y: 6}
+        - {x: 11, y: 7}
+        - {x: -3, y: 7}
+        - {x: -6, y: 4}
+        - {x: -6, y: 0}
+        - {x: -8, y: -2}
+        - {x: -8, y: -4}
+        - {x: -6, y: -6}
+        - {x: -6, y: -9}
+        - {x: -4, y: -11}
+        - {x: 2, y: -11}
+        - {x: 6, y: -7}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 7c61397a974e1f2479d9a4b6d0a6a9fe
+      internalID: 1029215876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 7}
+        - {x: 11, y: 8}
+        - {x: -3, y: 8}
+        - {x: -6, y: 5}
+        - {x: -8, y: -1}
+        - {x: -8, y: -3}
+        - {x: -2, y: -9}
+        - {x: 2, y: -9}
+        - {x: 7, y: -4}
+        - {x: 11, y: -4}
+        - {x: 12, y: -3}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 26f7547f3d82315478bc63972772831c
+      internalID: 1551762072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -4}
+        - {x: 12, y: 6}
+        - {x: 11, y: 7}
+        - {x: -3, y: 7}
+        - {x: -6, y: 4}
+        - {x: -6, y: 0}
+        - {x: -8, y: -2}
+        - {x: -8, y: -4}
+        - {x: -6, y: -7}
+        - {x: -4, y: -11}
+        - {x: 1, y: -11}
+        - {x: 6, y: -7}
+        - {x: 7, y: -5}
+        - {x: 11, y: -5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 170070371553f8043b4dff35bbac84f4
+      internalID: 186728632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -4}
+        - {x: 11, y: -4}
+        - {x: 12, y: -3}
+        - {x: 12, y: 7}
+        - {x: 11, y: 8}
+        - {x: -3, y: 8}
+        - {x: -6, y: 5}
+        - {x: -6, y: 1}
+        - {x: -8, y: -1}
+        - {x: -8, y: -3}
+        - {x: -6, y: -8}
+        - {x: -4, y: -10}
+        - {x: -2, y: -10}
+        - {x: 0, y: -8}
+        - {x: 4, y: -8}
+        - {x: 7, y: -6}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: ac96183d87d2e3b4383b05c3c43b5fef
+      internalID: 1640404337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -7}
+        - {x: 7, y: -4}
+        - {x: 11, y: -4}
+        - {x: 12, y: -3}
+        - {x: 12, y: 7}
+        - {x: 11, y: 8}
+        - {x: -3, y: 8}
+        - {x: -6, y: 5}
+        - {x: -6, y: 1}
+        - {x: -8, y: -1}
+        - {x: -8, y: -3}
+        - {x: -7, y: -4}
+        - {x: -7, y: -7}
+        - {x: -5, y: -9}
+        - {x: -1, y: -9}
+        - {x: 1, y: -8}
+        - {x: 2, y: -9}
+        - {x: 5, y: -9}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: f410ce4a4019a4a4fa7d746e8537f60b
+      internalID: -259022532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_22
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -4}
+        - {x: 12, y: 6}
+        - {x: 11, y: 7}
+        - {x: -3, y: 7}
+        - {x: -6, y: 4}
+        - {x: -6, y: 0}
+        - {x: -8, y: -2}
+        - {x: -8, y: -4}
+        - {x: -6, y: -6}
+        - {x: -6, y: -8}
+        - {x: -4, y: -10}
+        - {x: 0, y: -10}
+        - {x: 1, y: -11}
+        - {x: 4, y: -11}
+        - {x: 7, y: -8}
+        - {x: 7, y: -5}
+        - {x: 11, y: -5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: f1788b65622354744b5934591a3cf251
+      internalID: 1289472992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - vita_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 7}
+        - {x: 11, y: 8}
+        - {x: -3, y: 8}
+        - {x: -6, y: 5}
+        - {x: -8, y: -1}
+        - {x: -8, y: -3}
+        - {x: -1, y: -10}
+        - {x: 1, y: -10}
+        - {x: 7, y: -4}
+        - {x: 11, y: -4}
+        - {x: 12, y: -3}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5a1e69f062808b541926c42fb4b10495
+      internalID: 1032366793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -270, y: -7}
+      - {x: -270, y: -2}
+      - {x: -267, y: -1}
+      - {x: -267, y: 7}
+      - {x: -270, y: 10}
+      - {x: -282, y: 10}
+      - {x: -286, y: 6}
+      - {x: -286, y: 3}
+      - {x: -284, y: -1}
+      - {x: -284, y: -5}
+      - {x: -282, y: -7}
+      - {x: -282, y: -9}
+      - {x: -280, y: -11}
+      - {x: -278, y: -11}
+      - {x: -277, y: -10}
+      - {x: -276, y: -11}
+      - {x: -274, y: -11}
+    - - {x: -243, y: 7}
+      - {x: -246, y: 10}
+      - {x: -255, y: 10}
+      - {x: -256, y: 9}
+      - {x: -258, y: 9}
+      - {x: -262, y: 5}
+      - {x: -262, y: 2}
+      - {x: -260, y: -2}
+      - {x: -260, y: -6}
+      - {x: -256, y: -11}
+      - {x: -249, y: -11}
+      - {x: -246, y: -8}
+      - {x: -246, y: -2}
+      - {x: -243, y: -1}
+    - - {x: -219, y: 6}
+      - {x: -222, y: 9}
+      - {x: -234, y: 9}
+      - {x: -238, y: 5}
+      - {x: -238, y: 2}
+      - {x: -236, y: -2}
+      - {x: -236, y: -6}
+      - {x: -232, y: -11}
+      - {x: -225, y: -11}
+      - {x: -222, y: -8}
+      - {x: -222, y: -3}
+      - {x: -219, y: -2}
+    - - {x: -198, y: -7}
+      - {x: -198, y: -3}
+      - {x: -195, y: -2}
+      - {x: -195, y: 6}
+      - {x: -198, y: 9}
+      - {x: -210, y: 10}
+      - {x: -214, y: 6}
+      - {x: -214, y: 3}
+      - {x: -212, y: -1}
+      - {x: -212, y: -5}
+      - {x: -210, y: -7}
+      - {x: -210, y: -9}
+      - {x: -208, y: -11}
+      - {x: -206, y: -11}
+      - {x: -205, y: -10}
+      - {x: -204, y: -11}
+      - {x: -202, y: -11}
+    - - {x: -147, y: 6}
+      - {x: -150, y: 9}
+      - {x: -162, y: 9}
+      - {x: -166, y: 5}
+      - {x: -166, y: 2}
+      - {x: -165, y: 1}
+      - {x: -165, y: -1}
+      - {x: -163, y: -3}
+      - {x: -164, y: -4}
+      - {x: -164, y: -7}
+      - {x: -162, y: -9}
+      - {x: -161, y: -9}
+      - {x: -159, y: -11}
+      - {x: -155, y: -11}
+      - {x: -150, y: -7}
+      - {x: -150, y: -3}
+      - {x: -147, y: -2}
+    - - {x: -125, y: -3}
+      - {x: -123, y: 0}
+      - {x: -123, y: 7}
+      - {x: -126, y: 10}
+      - {x: -138, y: 10}
+      - {x: -142, y: 6}
+      - {x: -142, y: 3}
+      - {x: -140, y: -1}
+      - {x: -140, y: -5}
+      - {x: -138, y: -7}
+      - {x: -138, y: -9}
+      - {x: -136, y: -11}
+      - {x: -134, y: -11}
+      - {x: -132, y: -9}
+      - {x: -128, y: -9}
+      - {x: -125, y: -6}
+    - - {x: -75, y: -1}
+      - {x: -75, y: 6}
+      - {x: -78, y: 9}
+      - {x: -90, y: 9}
+      - {x: -94, y: 5}
+      - {x: -93, y: -1}
+      - {x: -92, y: -4}
+      - {x: -92, y: -7}
+      - {x: -91, y: -9}
+      - {x: -88, y: -10}
+      - {x: -84, y: -10}
+      - {x: -83, y: -11}
+      - {x: -80, y: -11}
+      - {x: -77, y: -8}
+      - {x: -77, y: -5}
+      - {x: -78, y: -3}
+    - - {x: -51, y: 7}
+      - {x: -54, y: 10}
+      - {x: -66, y: 10}
+      - {x: -70, y: 6}
+      - {x: -70, y: 3}
+      - {x: -68, y: -1}
+      - {x: -68, y: -5}
+      - {x: -65, y: -8}
+      - {x: -64, y: -8}
+      - {x: -61, y: -11}
+      - {x: -59, y: -11}
+      - {x: -54, y: -6}
+      - {x: -54, y: -2}
+      - {x: -51, y: -1}
+    - - {x: -30, y: -7}
+      - {x: -30, y: -2}
+      - {x: -27, y: -1}
+      - {x: -27, y: 7}
+      - {x: -30, y: 10}
+      - {x: -42, y: 10}
+      - {x: -46, y: 6}
+      - {x: -46, y: 3}
+      - {x: -44, y: -1}
+      - {x: -44, y: -5}
+      - {x: -42, y: -7}
+      - {x: -42, y: -9}
+      - {x: -40, y: -11}
+      - {x: -38, y: -11}
+      - {x: -37, y: -10}
+      - {x: -36, y: -11}
+      - {x: -34, y: -11}
+    - - {x: -6, y: -3}
+      - {x: -7, y: -2}
+      - {x: -5, y: 0}
+      - {x: -5, y: 7}
+      - {x: -8, y: 10}
+      - {x: -17, y: 10}
+      - {x: -20, y: 9}
+      - {x: -24, y: 5}
+      - {x: -23, y: -1}
+      - {x: -21, y: -3}
+      - {x: -21, y: -6}
+      - {x: -17, y: -11}
+      - {x: -15, y: -11}
+      - {x: -13, y: -9}
+      - {x: -9, y: -9}
+      - {x: -6, y: -6}
+    - - {x: 19, y: -3}
+      - {x: 18, y: -1}
+      - {x: 21, y: 1}
+      - {x: 21, y: 8}
+      - {x: 18, y: 11}
+      - {x: 9, y: 11}
+      - {x: 6, y: 10}
+      - {x: 2, y: 6}
+      - {x: 3, y: 0}
+      - {x: 5, y: -2}
+      - {x: 4, y: -3}
+      - {x: 4, y: -6}
+      - {x: 8, y: -11}
+      - {x: 10, y: -11}
+      - {x: 12, y: -9}
+      - {x: 16, y: -9}
+      - {x: 19, y: -6}
+    - - {x: 42, y: -7}
+      - {x: 42, y: -2}
+      - {x: 45, y: -1}
+      - {x: 45, y: 7}
+      - {x: 42, y: 10}
+      - {x: 30, y: 10}
+      - {x: 26, y: 6}
+      - {x: 26, y: 3}
+      - {x: 28, y: -1}
+      - {x: 28, y: -5}
+      - {x: 30, y: -7}
+      - {x: 30, y: -9}
+      - {x: 32, y: -11}
+      - {x: 34, y: -11}
+      - {x: 35, y: -10}
+      - {x: 36, y: -11}
+      - {x: 38, y: -11}
+    - - {x: 67, y: -3}
+      - {x: 66, y: -1}
+      - {x: 69, y: 1}
+      - {x: 69, y: 8}
+      - {x: 66, y: 11}
+      - {x: 57, y: 11}
+      - {x: 54, y: 10}
+      - {x: 50, y: 6}
+      - {x: 51, y: 0}
+      - {x: 53, y: -2}
+      - {x: 52, y: -3}
+      - {x: 52, y: -6}
+      - {x: 56, y: -11}
+      - {x: 58, y: -11}
+      - {x: 60, y: -9}
+      - {x: 64, y: -9}
+      - {x: 67, y: -6}
+    - - {x: 90, y: -3}
+      - {x: 89, y: -2}
+      - {x: 91, y: 0}
+      - {x: 91, y: 7}
+      - {x: 88, y: 10}
+      - {x: 79, y: 10}
+      - {x: 76, y: 9}
+      - {x: 72, y: 5}
+      - {x: 73, y: -1}
+      - {x: 75, y: -3}
+      - {x: 75, y: -6}
+      - {x: 79, y: -11}
+      - {x: 81, y: -11}
+      - {x: 83, y: -9}
+      - {x: 87, y: -9}
+      - {x: 90, y: -6}
+    - - {x: 114, y: -3}
+      - {x: 113, y: -2}
+      - {x: 115, y: 0}
+      - {x: 115, y: 7}
+      - {x: 112, y: 10}
+      - {x: 103, y: 10}
+      - {x: 100, y: 9}
+      - {x: 96, y: 5}
+      - {x: 97, y: -1}
+      - {x: 99, y: -3}
+      - {x: 99, y: -6}
+      - {x: 103, y: -11}
+      - {x: 105, y: -11}
+      - {x: 107, y: -9}
+      - {x: 111, y: -9}
+      - {x: 114, y: -6}
+    - - {x: 138, y: -6}
+      - {x: 139, y: -5}
+      - {x: 143, y: -5}
+      - {x: 146, y: -2}
+      - {x: 146, y: 4}
+      - {x: 143, y: 7}
+      - {x: 129, y: 7}
+      - {x: 126, y: 4}
+      - {x: 126, y: 0}
+      - {x: 124, y: -2}
+      - {x: 124, y: -4}
+      - {x: 126, y: -6}
+      - {x: 126, y: -9}
+      - {x: 128, y: -11}
+      - {x: 134, y: -11}
+      - {x: 138, y: -7}
+    - - {x: 194, y: -2}
+      - {x: 194, y: 4}
+      - {x: 191, y: 7}
+      - {x: 177, y: 7}
+      - {x: 174, y: 4}
+      - {x: 174, y: 0}
+      - {x: 172, y: -2}
+      - {x: 172, y: -4}
+      - {x: 174, y: -7}
+      - {x: 176, y: -11}
+      - {x: 181, y: -11}
+      - {x: 186, y: -7}
+      - {x: 187, y: -5}
+      - {x: 191, y: -5}
+    - - {x: 266, y: -2}
+      - {x: 266, y: 4}
+      - {x: 263, y: 7}
+      - {x: 249, y: 7}
+      - {x: 246, y: 4}
+      - {x: 246, y: 0}
+      - {x: 244, y: -2}
+      - {x: 244, y: -4}
+      - {x: 246, y: -6}
+      - {x: 246, y: -8}
+      - {x: 248, y: -10}
+      - {x: 252, y: -10}
+      - {x: 253, y: -11}
+      - {x: 256, y: -11}
+      - {x: 259, y: -8}
+      - {x: 259, y: -5}
+      - {x: 263, y: -5}
+    - - {x: -171, y: 7}
+      - {x: -174, y: 10}
+      - {x: -186, y: 10}
+      - {x: -190, y: 6}
+      - {x: -190, y: 3}
+      - {x: -188, y: -1}
+      - {x: -188, y: -5}
+      - {x: -185, y: -8}
+      - {x: -184, y: -8}
+      - {x: -182, y: -10}
+      - {x: -178, y: -10}
+      - {x: -174, y: -6}
+      - {x: -174, y: -2}
+      - {x: -171, y: -1}
+    - - {x: -102, y: -2}
+      - {x: -99, y: 0}
+      - {x: -99, y: 7}
+      - {x: -102, y: 10}
+      - {x: -114, y: 10}
+      - {x: -118, y: 6}
+      - {x: -118, y: 3}
+      - {x: -116, y: -1}
+      - {x: -116, y: -5}
+      - {x: -114, y: -10}
+      - {x: -103, y: -10}
+      - {x: -101, y: -8}
+    - - {x: 212, y: -4}
+      - {x: 215, y: -4}
+      - {x: 218, y: -1}
+      - {x: 218, y: 5}
+      - {x: 215, y: 8}
+      - {x: 201, y: 8}
+      - {x: 198, y: 5}
+      - {x: 198, y: 1}
+      - {x: 196, y: -1}
+      - {x: 196, y: -3}
+      - {x: 198, y: -8}
+      - {x: 200, y: -10}
+      - {x: 202, y: -10}
+      - {x: 204, y: -8}
+      - {x: 208, y: -8}
+      - {x: 211, y: -6}
+    - - {x: 288, y: 7}
+      - {x: 287, y: 8}
+      - {x: 273, y: 8}
+      - {x: 270, y: 5}
+      - {x: 268, y: -1}
+      - {x: 268, y: -3}
+      - {x: 275, y: -10}
+      - {x: 277, y: -10}
+      - {x: 283, y: -4}
+      - {x: 287, y: -4}
+      - {x: 288, y: -3}
+    - - {x: 170, y: 5}
+      - {x: 167, y: 8}
+      - {x: 153, y: 8}
+      - {x: 150, y: 5}
+      - {x: 148, y: -1}
+      - {x: 148, y: -3}
+      - {x: 154, y: -9}
+      - {x: 158, y: -9}
+      - {x: 163, y: -4}
+      - {x: 167, y: -4}
+      - {x: 170, y: -1}
+    - - {x: 235, y: -7}
+      - {x: 235, y: -4}
+      - {x: 239, y: -4}
+      - {x: 242, y: -1}
+      - {x: 242, y: 5}
+      - {x: 239, y: 8}
+      - {x: 225, y: 8}
+      - {x: 222, y: 5}
+      - {x: 222, y: 1}
+      - {x: 220, y: -1}
+      - {x: 220, y: -3}
+      - {x: 221, y: -4}
+      - {x: 221, y: -7}
+      - {x: 223, y: -9}
+      - {x: 227, y: -9}
+      - {x: 229, y: -8}
+      - {x: 230, y: -9}
+      - {x: 233, y: -9}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DinoSprites - vita_0: 785600219
+      DinoSprites - vita_1: 542463655
+      DinoSprites - vita_10: -775405413
+      DinoSprites - vita_11: -387387161
+      DinoSprites - vita_12: 1331620116
+      DinoSprites - vita_13: -250799242
+      DinoSprites - vita_14: -1563451157
+      DinoSprites - vita_15: -790324296
+      DinoSprites - vita_16: -1154151907
+      DinoSprites - vita_17: 1029215876
+      DinoSprites - vita_18: 1551762072
+      DinoSprites - vita_19: 186728632
+      DinoSprites - vita_2: -819910736
+      DinoSprites - vita_20: 1640404337
+      DinoSprites - vita_21: -259022532
+      DinoSprites - vita_22: 1289472992
+      DinoSprites - vita_23: 1032366793
+      DinoSprites - vita_3: -1563235966
+      DinoSprites - vita_4: 1308990421
+      DinoSprites - vita_5: -1140668748
+      DinoSprites - vita_6: -1144746569
+      DinoSprites - vita_7: -1322689003
+      DinoSprites - vita_8: 111489865
+      DinoSprites - vita_9: 1816956773
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
